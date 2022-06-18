@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/tome-project/static/css/main.d0c96e40.chunk.css",
+    "main.js": "/tome-project/static/js/main.f575f444.chunk.js",
+    "main.js.map": "/tome-project/static/js/main.f575f444.chunk.js.map",
+    "runtime-main.js": "/tome-project/static/js/runtime-main.1a1e927d.js",
+    "runtime-main.js.map": "/tome-project/static/js/runtime-main.1a1e927d.js.map",
+    "static/js/2.521d11c3.chunk.js": "/tome-project/static/js/2.521d11c3.chunk.js",
+    "static/js/2.521d11c3.chunk.js.map": "/tome-project/static/js/2.521d11c3.chunk.js.map",
+    "static/js/3.a822b3d0.chunk.js": "/tome-project/static/js/3.a822b3d0.chunk.js",
+    "static/js/3.a822b3d0.chunk.js.map": "/tome-project/static/js/3.a822b3d0.chunk.js.map",
+    "static/js/4.e8dc26b2.chunk.js": "/tome-project/static/js/4.e8dc26b2.chunk.js",
+    "static/js/4.e8dc26b2.chunk.js.map": "/tome-project/static/js/4.e8dc26b2.chunk.js.map",
+    "index.html": "/tome-project/index.html",
+    "static/css/main.d0c96e40.chunk.css.map": "/tome-project/static/css/main.d0c96e40.chunk.css.map",
+    "static/js/2.521d11c3.chunk.js.LICENSE.txt": "/tome-project/static/js/2.521d11c3.chunk.js.LICENSE.txt",
+    "static/js/3.a822b3d0.chunk.js.LICENSE.txt": "/tome-project/static/js/3.a822b3d0.chunk.js.LICENSE.txt",
+    "static/media/atumalaca.9686125e.mp3": "/tome-project/static/media/atumalaca.9686125e.mp3",
+    "static/media/cavalo.2e8fdc71.mp3": "/tome-project/static/media/cavalo.2e8fdc71.mp3",
+    "static/media/chegaa.831685cc.mp3": "/tome-project/static/media/chegaa.831685cc.mp3",
+    "static/media/dancagatinho.a98796c6.mp3": "/tome-project/static/media/dancagatinho.a98796c6.mp3",
+    "static/media/demais.a74b4f8e.mp3": "/tome-project/static/media/demais.a74b4f8e.mp3",
+    "static/media/efeitoanao.86918e41.mp3": "/tome-project/static/media/efeitoanao.86918e41.mp3",
+    "static/media/tapa.57dd3077.mp3": "/tome-project/static/media/tapa.57dd3077.mp3",
+    "static/media/toin.4ac2356a.mp3": "/tome-project/static/media/toin.4ac2356a.mp3",
+    "static/media/toinmaior.dc13d721.mp3": "/tome-project/static/media/toinmaior.dc13d721.mp3",
+    "static/media/tome.5d97bd89.mp3": "/tome-project/static/media/tome.5d97bd89.mp3",
+    "static/media/xiii.af7be568.mp3": "/tome-project/static/media/xiii.af7be568.mp3",
+    "static/media/yaa.22fe5336.mp3": "/tome-project/static/media/yaa.22fe5336.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a1e927d.js",
+    "static/js/2.521d11c3.chunk.js",
+    "static/css/main.d0c96e40.chunk.css",
+    "static/js/main.f575f444.chunk.js"
+  ]
+}
