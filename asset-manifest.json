@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tome-project/static/css/main.d0c96e40.chunk.css",
-    "main.js": "/tome-project/static/js/main.f575f444.chunk.js",
-    "main.js.map": "/tome-project/static/js/main.f575f444.chunk.js.map",
+    "main.js": "/tome-project/static/js/main.020a4328.chunk.js",
+    "main.js.map": "/tome-project/static/js/main.020a4328.chunk.js.map",
     "runtime-main.js": "/tome-project/static/js/runtime-main.1a1e927d.js",
     "runtime-main.js.map": "/tome-project/static/js/runtime-main.1a1e927d.js.map",
     "static/js/2.521d11c3.chunk.js": "/tome-project/static/js/2.521d11c3.chunk.js",
@@ -20,11 +20,24 @@
     "static/media/chegaa.831685cc.mp3": "/tome-project/static/media/chegaa.831685cc.mp3",
     "static/media/dancagatinho.a98796c6.mp3": "/tome-project/static/media/dancagatinho.a98796c6.mp3",
     "static/media/demais.a74b4f8e.mp3": "/tome-project/static/media/demais.a74b4f8e.mp3",
+    "static/media/ebrincadeirahein.55328fc1.mp3": "/tome-project/static/media/ebrincadeirahein.55328fc1.mp3",
     "static/media/efeitoanao.86918e41.mp3": "/tome-project/static/media/efeitoanao.86918e41.mp3",
+    "static/media/elegosta.72e18753.mp3": "/tome-project/static/media/elegosta.72e18753.mp3",
+    "static/media/esquecatudo.b2c4283a.mp3": "/tome-project/static/media/esquecatudo.b2c4283a.mp3",
+    "static/media/irra.b1be9cd2.mp3": "/tome-project/static/media/irra.b1be9cd2.mp3",
+    "static/media/nao.207ce0a7.mp3": "/tome-project/static/media/nao.207ce0a7.mp3",
+    "static/media/okayokay.4b045773.mp3": "/tome-project/static/media/okayokay.4b045773.mp3",
+    "static/media/olhaeleae.de6dedcd.mp3": "/tome-project/static/media/olhaeleae.de6dedcd.mp3",
+    "static/media/pareoriginal.f553b0d1.mp3": "/tome-project/static/media/pareoriginal.f553b0d1.mp3",
+    "static/media/queissomeufilhocalma.f9836d32.mp3": "/tome-project/static/media/queissomeufilhocalma.f9836d32.mp3",
+    "static/media/quepapelaohein.da132757.mp3": "/tome-project/static/media/quepapelaohein.da132757.mp3",
     "static/media/tapa.57dd3077.mp3": "/tome-project/static/media/tapa.57dd3077.mp3",
     "static/media/toin.4ac2356a.mp3": "/tome-project/static/media/toin.4ac2356a.mp3",
     "static/media/toinmaior.dc13d721.mp3": "/tome-project/static/media/toinmaior.dc13d721.mp3",
     "static/media/tome.5d97bd89.mp3": "/tome-project/static/media/tome.5d97bd89.mp3",
+    "static/media/triste.a2193e2d.mp3": "/tome-project/static/media/triste.a2193e2d.mp3",
+    "static/media/uh.e68d4f3d.mp3": "/tome-project/static/media/uh.e68d4f3d.mp3",
+    "static/media/uii.6cfcc4b3.mp3": "/tome-project/static/media/uii.6cfcc4b3.mp3",
     "static/media/xiii.af7be568.mp3": "/tome-project/static/media/xiii.af7be568.mp3",
     "static/media/yaa.22fe5336.mp3": "/tome-project/static/media/yaa.22fe5336.mp3"
   },
@@ -32,6 +45,6 @@
     "static/js/runtime-main.1a1e927d.js",
     "static/js/2.521d11c3.chunk.js",
     "static/css/main.d0c96e40.chunk.css",
-    "static/js/main.f575f444.chunk.js"
+    "static/js/main.020a4328.chunk.js"
   ]
 }
