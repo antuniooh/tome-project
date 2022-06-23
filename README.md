@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/antuniooh/tome-project">
-    <img src="https://aventurasnahistoria.uol.com.br/media/_versions/machado_de_assis_widelg.jpg" alt="Logo" width="550">
+    <img src="https://64.media.tumblr.com/e28cc26258d9e3f03068264d8c5aed8c/01673a3275062513-f8/s540x810/93bb653b9a4d486b270cd627ef70a681a26c0359.jpg" alt="Logo" width="550">
   </a>
 </p>
 
